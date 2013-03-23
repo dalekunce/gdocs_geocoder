@@ -1,7 +1,4 @@
 #Batch Google Geocoding Script and Data Exporter
-- Author: Dale Kunce
-- http://normalhabit.com/
-
 ==============
 ##Purpose
 I needed a geocoder for gdocs that is fast and reliable.
