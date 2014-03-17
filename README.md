@@ -1,4 +1,4 @@
-#Batch Google Geocoding Script and Data Exporter
+Batch Google Geocoding Script and Data Exporter
 ==============
 ##Purpose
 I needed a geocoder for gdocs that is fast and reliable.
